@@ -91,14 +91,14 @@
 
 .line .myproject .styleproject .countproject {
     margin-left: 2.5rem;
-    font-size: 2rem;
-    margin-right: 6rem;
+    font-size: 1.5rem;
+    margin-right: 5rem;
     font-weight: 600;
 }
 
 
 .line .myproject .styleproject .search{
-    color: lightslategrey;
+   color: lightslategrey;
    margin-left: 25rem;
    font-size: 1.2rem;
    margin-top: 0.5rem;
@@ -151,11 +151,11 @@
 .line .myproject .maincontainer{
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .line .myproject .container{
-   
-    width: 22rem;
+    width: 20rem;
     height: 14rem;
     background-color: white;
     border: solid #d1d8e0 1px;
